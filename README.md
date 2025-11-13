@@ -17,6 +17,6 @@ plt.axis("off")
 plt.show()
 ```
 ## OUTPUT IMAGE:
-<img src="https://github.com/user-attachments/assets/046ae47f-036f-44ab-8d5b-7804fe3daadf" width="300">
+<img src="https://github.com/user-attachments/assets/046ae47f-036f-44ab-8d5b-7804fe3daadf" width="200">
 
 
