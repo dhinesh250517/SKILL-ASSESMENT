@@ -1,3 +1,58 @@
+
+
+<div style="
+    width: 100%;
+    min-height: 1100px; 
+    padding: 40px;
+    box-sizing: border-box;
+    border: 1px solid #000;
+">
+
+  <!-- Centered Image -->
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/a0944db9-92a4-48be-b312-ccf0248f766b" width="500">
+  </p>
+
+  <!-- Title -->
+  <h2 align="center" style="margin-top: -10px;">SKILL ASSESSMENT I</h2>
+
+  <br><br>
+
+  <!-- Left-Aligned Details -->
+  <p style="font-size: 18px; line-height: 1.8;">
+    <b>Name:</b> DHINESH S <br>
+    <b>Reg No:</b> 212223060053 <br>
+    <b>Dept / Year:</b> ECE / III Year <br>
+    <b>Course Code & Name:</b> 19EC503 – Digital Image Processing <br>
+    <b>Slot:</b> 3U1-1
+  </p>
+
+  <!-- BLANK SPACE FOR PRINTING -->
+  <div style="height: 600px;"></div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Basic Image Processing:
 
 
